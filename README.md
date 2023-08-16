@@ -13,6 +13,7 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 
 ## Base De Datos:
 [Base en Kaggle](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
-Type of wine, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality
+
+Datos: Type of wine, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality
 
 
