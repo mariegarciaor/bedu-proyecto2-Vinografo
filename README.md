@@ -11,7 +11,8 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 2. ¿Entre vino blanco y tinto, qué tipo tuvo mejor calificación en calidad?
 3. ¿Cómo se relacionan todas estas variables químicas juntas para predecir la calidad general del vino? (segmentación)
 
-## Base De Datos: 
+## Base De Datos:
+[Base en Kaggle](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
 Type of wine, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality
 
 
