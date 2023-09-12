@@ -43,7 +43,7 @@ Para esta consultoría nos enfocaremos en las siguientes 5 variables que comunme
 * **pH:** El pH influye en la acidez y la sensación en boca del vino. Un pH adecuado es esencial para mantener la frescura y el equilibrio en el vino.  
 * **Alcohol:** El contenido de alcohol afecta la sensación en boca, la intensidad de los sabores y la estructura del vino. Un equilibrio adecuado es esencial para lograr una experiencia agradable.  
 
-## **🍷 Conclusiones finales** 
+## **🍷 Conclusiones** 
 
 **En este análisis, se evalúa la relación entre 5 variables y la calidad de los vinos blancos y tintos.**
 
