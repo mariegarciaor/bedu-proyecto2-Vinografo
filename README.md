@@ -1,7 +1,6 @@
 ## **🍷 Vinografo:** Un enfoque Data-Driven para comprender la calidad del vino.
 
-🔎 Tabla de contenidos
-
+## Tabla de Contenidos
 🤯 ¿Cuál es la necesidad o problema a resolver?
 
 🏢 Consultas del negocio
