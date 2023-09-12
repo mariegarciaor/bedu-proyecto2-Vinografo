@@ -1,15 +1,15 @@
 ## **🍷 Vinografo:** Un enfoque Data-Driven para comprender la calidad del vino.
 
-## Tabla de Contenidos
-🤯 ¿Cuál es la necesidad o problema a resolver?
+## 🔎 Tabla de Contenidos
+-🤯 ¿Cuál es la necesidad o problema a resolver?
 
-🏢 Consultas del negocio
+-🏢 Consultas del negocio
 
-📊 Base de datos
+-📊 Base de datos
 
-👉 Descripción de las variables
+-👉 Descripción de las variables
 
-🍷 Conclusiones finales
+-🍷 Conclusiones finales
 
 ## ¿Cuál es la necesidad o problema a resolver? 
 
@@ -27,4 +27,4 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 
 Datos: Type of wine, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, quality
 
-
+## Descripción de las variables
