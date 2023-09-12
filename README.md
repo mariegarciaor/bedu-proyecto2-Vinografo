@@ -7,9 +7,9 @@ La calidad del vino es influenciada por una variedad de factores, como sus propi
 Además, al comparar vinos blancos y tintos en términos de calidad, podemos descubrir patrones específicos asociados con cada tipo y arrojar luz sobre posibles diferencias en sus procesos de elaboración.
 
 ## Preguntas:
-1. ¿Existe una relación entre cada factor y la calidad del vino?
-2. ¿Entre vino blanco y tinto, qué tipo tuvo mejor calificación en calidad?
-3. ¿Cómo se relacionan todas estas variables químicas juntas para predecir la calidad general del vino? (segmentación)
+1. ¿Entre vino blanco y tinto, qué tipo tuvo mejor calificación en calidad?
+2. ¿Existe una relación entre cada factor y la calidad del vino?
+3. ¿Cuál es la influencia de la concentración de alcohol en la calidad del vino y cómo se compara esta influencia entre vinos blancos y tintos? (segmentación)
 
 ## Base De Datos:
 [Base en Kaggle](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
