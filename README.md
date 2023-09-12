@@ -1,5 +1,12 @@
  **🍷 Vinografo:** Un enfoque Data-Driven para comprender la calidad del vino.
 
+🔎 Tabla de contenidos
+🤯 ¿Cuál es la necesidad o problema a resolver?
+🏢 Consultas del negocio
+📊 Base de datos
+👉 Descripción de las variables
+🍷 Conclusiones finales
+
 ## ¿Cuál es la necesidad o problema a resolver? 
 
 La calidad del vino es influenciada por una variedad de factores, como sus propiedades químicas y características organolépticas. Resolver el desafío de identificar la relación entre estos factores y la calidad del vino nos permitirá no solo comprender mejor los matices que influyen en su sabor y percepción, sino también tener una visión más completa de la complejidad detrás de esta apreciada bebida y la experiencia del consumidor. 
