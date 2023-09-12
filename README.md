@@ -1,10 +1,15 @@
 ## **🍷 Vinografo:** Un enfoque Data-Driven para comprender la calidad del vino.
 
 🔎 Tabla de contenidos
+
 🤯 ¿Cuál es la necesidad o problema a resolver?
+
 🏢 Consultas del negocio
+
 📊 Base de datos
+
 👉 Descripción de las variables
+
 🍷 Conclusiones finales
 
 ## ¿Cuál es la necesidad o problema a resolver? 
@@ -16,7 +21,7 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 ## Preguntas:
 1. ¿Entre vino blanco y tinto, qué tipo tuvo mejor calificación en calidad?
 2. ¿Existe una relación entre cada factor y la calidad del vino?
-3. ¿Cuál es la influencia de la concentración de alcohol en la calidad del vino y cómo se compara esta influencia entre vinos blancos y tintos? (segmentación)
+3. ¿Cuál es la influencia de la concentración de alcohol en la calidad del vino y cómo se compara esta influencia entre vinos blancos y tintos? 
 
 ## Base De Datos:
 [Base en Kaggle](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
