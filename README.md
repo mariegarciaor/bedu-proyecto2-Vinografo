@@ -38,7 +38,7 @@ Las variables de entrada en el conjunto de datos consisten en el tipo de vino (y
 
 Para esta consultoría nos enfocaremos en las siguientes 5 variables que comunmente se cree tienen mayor influencia en la calidad percibida del vino:
 
-**Tipo de vino:** El tipo de vino, ya sea tinto o blanco, es uno de los factores más influyentes, ya que afecta fundamentalmente el perfil de sabor, aroma y estructura del vino.
+**Tipo de vino:** El tipo de vino, ya sea tinto o blanco, es uno de los factores más influyentes, ya que afecta fundamentalmente el perfil de sabor, aroma y estructura del vino.  
 **Acidez fija:** La acidez fija es crucial para la frescura y la viveza del vino. Una acidez equilibrada puede realzar los sabores y mantener el vino en equilibrio.
 **Azúcar residual:** El nivel de azúcar residual afecta directamente la percepción de dulzura del vino, lo cual puede tener un impacto importante en cómo se percibe el vino en términos de equilibrio y gusto.
 **pH:** El pH influye en la acidez y la sensación en boca del vino. Un pH adecuado es esencial para mantener la frescura y el equilibrio en el vino.
