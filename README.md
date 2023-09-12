@@ -23,7 +23,7 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 
 ## 📊 Base De Datos:
 
-Fuente: 
+Fuente:  
 [Wine Quality Data Set Red & White Wine](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
 
 **Descripción del dataset:**
