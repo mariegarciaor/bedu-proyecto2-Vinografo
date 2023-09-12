@@ -47,8 +47,8 @@ Para esta consultoría nos enfocaremos en las siguientes 5 variables que comunme
 
 **En este análisis, se evalúa la relación entre 5 variables y la calidad de los vinos blancos y tintos.**
 
-. Observamos que la variable 'alcohol' parece estar más fuertemente relacionada con la calidad del vino en comparación con las otras variables, que tienen correlaciones más débiles y podrían no ser tan influyentes en la calidad percibida del vino en este conjunto de datos.  
-. La correlación entre el alcohol y la calidad varía según el tipo de vino.  
-. En el caso de los vinos tintos, encontramos una correlación positiva significativa entre el alcohol y la calidad, lo que sugiere que un mayor contenido de alcohol tiende a asociarse con una mejor calidad en estos vinos.  
-. Por otro lado, en los vinos blancos, la correlación es menos pronunciada y podría indicar que la calidad de los vinos blancos está influenciada por otros factores en mayor medida.  
-. Estas diferencias subrayan la importancia de considerar el tipo de vino al evaluar la influencia de los componentes químicos en su calidad, lo que puede ser relevante para la producción y selección de vinos de alta calidad.  
+* Observamos que la variable 'alcohol' parece estar más fuertemente relacionada con la calidad del vino en comparación con las otras variables, que tienen correlaciones más débiles y podrían no ser tan influyentes en la calidad percibida del vino en este conjunto de datos.
+* La correlación entre el alcohol y la calidad varía según el tipo de vino.  
+* En el caso de los vinos tintos, encontramos una correlación positiva significativa entre el alcohol y la calidad, lo que sugiere que un mayor contenido de alcohol tiende a asociarse con una mejor calidad en estos vinos.  
+* Por otro lado, en los vinos blancos, la correlación es menos pronunciada y podría indicar que la calidad de los vinos blancos está influenciada por otros factores en mayor medida.  
+* Estas diferencias subrayan la importancia de considerar el tipo de vino al evaluar la influencia de los componentes químicos en su calidad, lo que puede ser relevante para la producción y selección de vinos de alta calidad.  
