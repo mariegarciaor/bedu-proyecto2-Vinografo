@@ -24,7 +24,7 @@ Además, al comparar vinos blancos y tintos en términos de calidad, podemos des
 ## 📊 Base De Datos:
 
 Fuente: 
-[Base en Kaggle](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
+[Wine Quality Data Set Red & White Wine](https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine)
 
 **Descripción del dataset:**
 Este conjunto de datos contiene información de 1599 muestras de vino tinto y 4898 muestras de vino blanco.
