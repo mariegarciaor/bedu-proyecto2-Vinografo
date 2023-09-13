@@ -43,6 +43,18 @@ Para esta consultoría nos enfocaremos en las siguientes 5 variables que comunme
 * **pH:** El pH influye en la acidez y la sensación en boca del vino. Un pH adecuado es esencial para mantener la frescura y el equilibrio en el vino.  
 * **Alcohol:** El contenido de alcohol afecta la sensación en boca, la intensidad de los sabores y la estructura del vino. Un equilibrio adecuado es esencial para lograr una experiencia agradable.  
 
+## **Respondiendo las preguntas:** 
+
+❓ **¿Entre vino blanco y tinto, qué tipo tuvo mejor calificación en calidad?**  
+Para esto, utilizaremos las funciones **counts_with_type**, **totals_by_type**, y **percentages_with_type** para calcular los conteos de cada combinación de **'type'** y **'quality_category'**, así como los totales por tipo de vino, los porcentajes para cada tipo de vino y agregar una columna que muestre el total por tipo de vino.
+
+❓ **¿Existe una relación entre cada factor y la calidad del vino?**  
+Con correlation_matrix  básicamente estamos calculando algo llamado **"coeficiente de correlación"** utilizando nuestro conjunto de datos **df_vinografo**. Lo que estamos haciendo es ver cómo todas nuestras variables numéricas se relacionan con la columna **'quality'**. La matriz resultante nos dará una idea de si hay alguna relación entre estas variables y la calidad del vino. Después de hacer todos estos cálculos, simplemente mostramos o imprimimos esa matriz de correlación.  
+
+❓ **¿Cuál es la influencia de la concentración de alcohol en la calidad del vino y cómo se compara esta influencia entre vinos blancos y tintos?**  
+Aquí agrupamos nuestros datos por tipo de vino usando **groupby**, luego calculamos la correlación entre el contenido de alcohol y la calidad del vino para cada tipo usando una función especial y, por último, mostramos los resultados de esas correlaciones.  
+
+
 ## **🍷 Conclusiones** 
 
 **En este análisis, se evalúa la relación entre 5 variables y la calidad de los vinos blancos y tintos.**
